@@ -12,6 +12,8 @@ Server (UCS) domains. It will perform the following steps for you:
 
 Univention Domain Join supports the following Linux distributions:
 
+- Ubuntu 20.04 LTS („Focal Fossa“)
+- Linux Mint („Ulyana“)
 - Ubuntu 18.04 LTS („Bionic Beaver“)
 - Linux Mint („Tara“)
 - Ubuntu 17.10 („Artful Aardvark“)
@@ -21,6 +23,7 @@ Univention Domain Join supports the following Linux distributions:
 The actual source code for the different Ubuntu releases can be found in
 the corresponding git branches:
 
+- ubuntu20.04 (Ubuntu and Linux Mint)
 - ubuntu18.04 (Ubuntu and Linux Mint)
 - ubuntu17.10
 - ubuntu16.04
